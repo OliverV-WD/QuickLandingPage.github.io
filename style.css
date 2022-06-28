@@ -301,12 +301,12 @@ main > div {
 
 }
 .hero .hero__image .middle {
-    top: -250px;
+    top: -170px;
     margin-bottom: -250px;
 
 }
 .hero .hero__image .right {
-    top: -50px;
+    top: -30px;
 }
 
 .hero .hero__image .left .pic:first-child {
@@ -446,7 +446,7 @@ main > div {
 .brands ul li:nth-child(5){
     background-color: rgb(43, 216, 37);
     left: -8%;
-    width: 100%;
+    width: 10%;
 }
 
 
