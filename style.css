@@ -324,7 +324,7 @@ main > div {
     background-color: var(--main-color);    
 }
 .hero .hero__image .middle .pic:nth-child(3){
-    background-color: var rgb(80, 14, 146);
+    background-color: var rgb(180, 14, 146);
 }
 
 .hero .hero__image .right .pic:first-child {
