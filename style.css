@@ -328,7 +328,7 @@ main > div {
 }
 
 .hero .hero__image .right .pic:first-child {
-    height: 350px;
+    height: 250px;
     background-color: red ;
 
 }
