@@ -306,7 +306,7 @@ main > div {
 
 }
 .hero .hero__image .right {
-    top: 50px;
+    top: -50px;
 }
 
 .hero .hero__image .left .pic:first-child {
